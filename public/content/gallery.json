@@ -1,0 +1,27 @@
+{
+  "title": "Fotogalerij",
+  "subtitle": "Bekijk foto's van onze activiteiten en evenementen",
+  "ctaTitle": "Wil je jouw foto's delen?",
+  "ctaText": "Heb je mooie foto's van buurtactiviteiten? Stuur ze naar ons op en we plaatsen ze in de galerij!",
+  "ctaButton": "Stuur foto's",
+  "photos": [
+    {
+      "id": 1,
+      "src": "/BBQ.jpg",
+      "title": "BuurtBBQ 2024",
+      "description": "Onze jaarlijkse BBQ was weer een groot succes"
+    },
+    {
+      "id": 2,
+      "src": "/pasen.jpg",
+      "title": "Paaseieren zoeken",
+      "description": "De jaarlijkse traditie van paaseieren zoeken in de buurt"
+    },
+    {
+      "id": 3,
+      "src": "/zonnebloem.jpg",
+      "title": "Zonnebloem",
+      "description": "Wie kweekt de grootste zonnebloem in de buurt?"
+    }
+  ]
+}

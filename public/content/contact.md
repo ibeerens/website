@@ -1,0 +1,23 @@
+---
+title: "Contact"
+subtitle: "Neem contact met ons op voor vragen, suggesties of om lid te worden"
+contactTitle: "Contactgegevens"
+email: "buurtverenigingdesteenstraat@outlook.com"
+emailNote: "We reageren binnen 24 uur"
+facebookUrl: "https://www.facebook.com/groups/396194063895407"
+facebookLabel: "Volg ons op Facebook"
+facebookNote: "Blijf op de hoogte van onze activiteiten"
+boardTitle: "Bestuur"
+board:
+  - name: "Stijn van de Ven"
+    role: "Voorzitter"
+  - name: "Edwina Treebusch"
+    role: "Secretaris"
+  - name: "Ivo Beerens"
+    role: "Penningmeester"
+  - name: "Nina Romme"
+    role: "Algemeen bestuurslid"
+  - name: "Rik Bosvelt"
+    role: "Algemeen bestuurslid"
+formTitle: "Stuur ons een bericht"
+---

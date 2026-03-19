@@ -1,0 +1,28 @@
+{
+  "name": "Buurtvereniging de Steenstraat",
+  "nav": [
+    { "to": "/", "label": "Home" },
+    { "to": "/news", "label": "Laatste nieuws" },
+    { "to": "/gallery", "label": "Fotogalerij" },
+    { "to": "/calendar", "label": "Buurtactiviteiten" },
+    { "to": "/word-lid", "label": "Word Lid" },
+    { "to": "/contact", "label": "Contact" }
+  ],
+  "footer": {
+    "tagline": "Samen maken we onze buurt een fijne plek om te wonen.",
+    "links": [
+      { "to": "/", "label": "Home" },
+      { "to": "/news", "label": "Laatste nieuws" },
+      { "to": "/gallery", "label": "Fotogalerij" },
+      { "to": "/calendar", "label": "Buurtactiviteiten" },
+      { "to": "/word-lid", "label": "Word Lid" },
+      { "to": "/contact", "label": "Contact" }
+    ],
+    "contact": {
+      "email": "buurtverenigingdesteenstraat@outlook.com",
+      "facebookUrl": "https://www.facebook.com/groups/396194063895407",
+      "facebookLabel": "Volg ons op Facebook"
+    },
+    "copyright": "Buurtvereniging de Steenstraat. Alle rechten voorbehouden."
+  }
+}
